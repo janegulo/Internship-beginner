@@ -1,4 +1,15 @@
-/* 背景色の設定 */
-body {
-  background-color: #00aeef;
+/* bodyを追記 */
+body{
+  background-color: black;
+}
+#content1 {
+  background-color: yellow;
+  margin: 20px 10px;
+}
+#content2 {
+  background-color: red;
+  padding: 20px 10px;
+}
+#content3{
+  background-color: blue;
 }
